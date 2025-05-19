@@ -1,4 +1,4 @@
-# 💻 Krypto Watchlist (Frontend-Projekt)
+# 💻 Krypto Watchlist/Tracker (Frontend-Projekt)
 
 Dieses Projekt ist eine Web-App zur Verwaltung von Kryptowährungen. Nutzer können Kryptowährungen zur Watchlist hinzufügen, bearbeiten oder löschen. Das Ganze basiert auf einem lokalen JSON-Server und wurde mit HTML, CSS, JavaScript und Bootstrap umgesetzt.
 
